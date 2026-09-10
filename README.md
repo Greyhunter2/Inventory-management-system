@@ -118,7 +118,7 @@ Inventory-managment-system/
 
 The complete demonstration of the Inventory Management System is available here:
 
-**[Watch the Demo Video](PASTE_YOUR_VIDEO_LINK_HERE)**
+**[Watch the Demo Video](https://drive.google.com/file/d/1bZLvNxVENLKscyfkm_XHvGT5phkzg1eF/view?usp=sharing)**
 
 ## Internship Assignment
 
