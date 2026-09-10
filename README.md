@@ -2,7 +2,7 @@
 
 A simple full-stack Inventory Management System developed using React, Node.js, Express.js, and MongoDB.
 
-This project was developed as part of an internship technical assignment to demonstrate full-stack development, REST API integration, database management, and responsive frontend design.
+This project was developed as part of an internship technical assignment to demonstrate full-stack development, REST API integration, database management, CRUD operations, and responsive frontend design.
 
 ## Features
 
